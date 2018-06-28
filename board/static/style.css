@@ -1,0 +1,77 @@
+body{
+    margin: 2%;
+}
+
+.mainTitle{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.noMessage{
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+}
+
+.box{
+    border: 3px solid #00b7ef;
+    height: fit-content;
+    padding: 1.5%;
+    margin: 1%;
+    max-width: 800px;
+}
+
+.dateBox{
+    width: 101px;
+    font-family: 'Poiret One', cursive;
+    font-size: 16px;
+}
+
+.title{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color:#00b7ef;
+}
+
+.author{
+    font-family: 'Pinyon Script', cursive;
+}
+
+.text{
+    font-family: Arial;
+    font-size: 16px;
+    color:#c1bfc0;
+}
+
+.myForm{
+    border: 3px dotted #00b7ef;
+    padding: 1.5%;
+    margin: 1%;
+    max-width: 800px;
+}
+
+#descInput{
+    height: 100px;
+    width: 100%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.addText{
+    border: 1px dashed black;
+    max-width: 800px;
+    text-align: center;
+    padding: 1%;
+}
+
+.plusButton, .sendButton{
+    background-color: #66CDAA; 
+}
+
+.cancelButton{
+    background-color: red;
+}
+
+i {
+    color: white;
+}
